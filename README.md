@@ -31,6 +31,8 @@
 
 ## v8 is coming
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gpbl/react-day-picker.svg)](https://greenkeeper.io/)
+
 v8 will be a rewrite of react-day-picker. Read more [here](https://github.com/gpbl/react-day-picker/issues/942).
 
 > ➡️ `master` branch is for the [upcoming v8 release](https://github.com/gpbl/react-day-picker/issues/942). Switch to the `v7` branch to send PR for the v7 version.
