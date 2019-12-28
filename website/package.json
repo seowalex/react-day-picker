@@ -22,7 +22,7 @@
     "date-fns": "^2.5.0",
     "eslint-import-resolver-babel-module": "^5.1.0",
     "fastdom": "^1.0.9",
-    "file-loader": "^4.2.0",
+    "file-loader": "^5.0.2",
     "lodash": "^4.17.15",
     "ora": "^4.0.1",
     "prop-types": "^15.7.2",
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-module-resolver": "^4.0.0",
     "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.18.2",
@@ -41,8 +41,8 @@
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.1.1",
     "prettier": "^1.18.2",
-    "raw-loader": "^3.1.0",
+    "raw-loader": "^4.0.0",
     "react-docgen-typescript": "^1.15.0",
-    "typescript-json-schema": "^0.40.0"
+    "typescript-json-schema": "^0.41.0"
   }
 }
